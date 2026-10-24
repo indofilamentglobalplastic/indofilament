@@ -32,21 +32,34 @@
  "@context": "https://schema.org",
  "@graph": [
   {
-   "@type": "Product",
-   "@id": "https://indofilamentglobalplastic.com/id/custom-oem/#product",
+   "@type": "OfferCatalog",
+   "@id": "https://indofilamentglobalplastic.com/id/custom-oem/#catalog",
    "name": "Custom / OEM Bristle Filament",
-   "category": "OEM filament",
-   "description": "Bulu sapu dan sikat nilon custom / OEM: warna, diameter, panjang, dan kekakuan sesuai permintaan. Private label dan ekspor. WA +62 831-6591-3330.",
-   "image": "https://indofilamentglobalplastic.com/img/custom-samples.jpg",
    "url": "https://indofilamentglobalplastic.com/id/custom-oem/",
-   "brand": {
-    "@type": "Brand",
-    "name": "Indofilament"
-   },
-   "manufacturer": {
+   "provider": {
     "@id": "https://indofilamentglobalplastic.com/#company"
    },
-   "countryOfOrigin": "ID"
+   "itemListElement": [
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Product",
+      "name": "Custom / OEM Bristle Filament",
+      "category": "OEM filament",
+      "description": "Bulu sapu dan sikat nilon custom / OEM: warna, diameter, panjang, dan kekakuan sesuai permintaan. Private label dan ekspor. WA +62 831-6591-3330.",
+      "image": "https://indofilamentglobalplastic.com/img/custom-samples.jpg",
+      "url": "https://indofilamentglobalplastic.com/id/custom-oem/",
+      "brand": {
+       "@type": "Brand",
+       "name": "Indofilament"
+      },
+      "manufacturer": {
+       "@id": "https://indofilamentglobalplastic.com/#company"
+      },
+      "countryOfOrigin": "ID"
+     }
+    }
+   ]
   },
   {
    "@type": "Organization",

@@ -31,21 +31,34 @@
  "@context": "https://schema.org",
  "@graph": [
   {
-   "@type": "Product",
-   "@id": "https://indofilamentglobalplastic.com/broom-bristles/#product",
+   "@type": "OfferCatalog",
+   "@id": "https://indofilamentglobalplastic.com/broom-bristles/#catalog",
    "name": "Broom Bristle Filament",
-   "category": "Broom filament",
-   "description": "Nylon broom bristles from Indonesia's best broom filament maker. Stiff, resilient filament for floor, push and industrial brooms. Custom colors and OEM.",
-   "image": "https://indofilamentglobalplastic.com/img/broom-bristles.jpg",
    "url": "https://indofilamentglobalplastic.com/broom-bristles/",
-   "brand": {
-    "@type": "Brand",
-    "name": "Indofilament"
-   },
-   "manufacturer": {
+   "provider": {
     "@id": "https://indofilamentglobalplastic.com/#company"
    },
-   "countryOfOrigin": "ID"
+   "itemListElement": [
+    {
+     "@type": "Offer",
+     "itemOffered": {
+      "@type": "Product",
+      "name": "Broom Bristle Filament",
+      "category": "Broom filament",
+      "description": "Nylon broom bristles from Indonesia's best broom filament maker. Stiff, resilient filament for floor, push and industrial brooms. Custom colors and OEM.",
+      "image": "https://indofilamentglobalplastic.com/img/broom-bristles.jpg",
+      "url": "https://indofilamentglobalplastic.com/broom-bristles/",
+      "brand": {
+       "@type": "Brand",
+       "name": "Indofilament"
+      },
+      "manufacturer": {
+       "@id": "https://indofilamentglobalplastic.com/#company"
+      },
+      "countryOfOrigin": "ID"
+     }
+    }
+   ]
   },
   {
    "@type": "Organization",
