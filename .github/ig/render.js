@@ -12,26 +12,33 @@ const esc = s => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g,
 const gold = s => esc(s).replace(/\*([^*]+)\*/g, '<span class="gold">$1</span>').replace(/\*/g, '');
 const foto = f => IMG + (FOTO.includes(f) ? f : 'factory-hall') + '.jpg';
 
+// Tema mengikuti website: hijau tua + mint + krem, judul Playfair Display, isi DM Sans. Slide "points" berlatar krem.
 const css = `
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700;800;900&family=Inter:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=DM+Sans:wght@400;500;700&display=swap');
 *{box-sizing:border-box;margin:0;padding:0}
-html,body{width:1080px;height:1350px;overflow:hidden;background:#0a0a0a}
-body{font-family:Inter,sans-serif;color:#f4efe4}
-.s{position:relative;width:1080px;height:1350px;overflow:hidden;background:#0a0a0a}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#022620}
+body{font-family:'DM Sans',sans-serif;color:#F4F2EC}
+.s{position:relative;width:1080px;height:1350px;overflow:hidden;background:radial-gradient(120% 80% at 85% 0%,#0F6E56 0%,#04342C 45%,#022620 100%)}
+.s::after{content:'';position:absolute;right:-180px;bottom:-180px;width:520px;height:520px;border-radius:50%;border:60px solid rgba(93,202,165,.08)}
 .bg{position:absolute;inset:0;background-size:cover;background-position:center}
-.shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.55) 0%,rgba(10,10,10,.25) 35%,rgba(10,10,10,.92) 70%,#0a0a0a 100%)}
-.dim{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.6),rgba(10,10,10,.88) 45%,#0a0a0a)}
-.logo{position:absolute;top:64px;left:72px;height:62px}
-.page{position:absolute;top:78px;right:72px;font:600 26px Inter;color:#d9b45a;letter-spacing:.08em}
-.gold{background:linear-gradient(90deg,#f7dc8b,#d4a542 45%,#a87a22);-webkit-background-clip:text;background-clip:text;color:transparent}
-h1{font:900 88px/1.04 Montserrat;letter-spacing:-.02em}
-h2{font:800 64px/1.08 Montserrat;letter-spacing:-.01em}
-.lead{font:500 34px/1.4 Inter;color:#e9e2d2}
-.kicker{font:700 26px Montserrat;letter-spacing:.22em;text-transform:uppercase;color:#d9b45a}
-.line{width:120px;height:6px;border-radius:3px;background:linear-gradient(90deg,#f7dc8b,#a87a22)}
-.foot{position:absolute;left:72px;right:72px;bottom:56px;display:flex;justify-content:space-between;font:500 24px Inter;color:#b9b0a0}
-.card{background:rgba(255,255,255,.06);border:1.5px solid rgba(217,180,90,.35);border-radius:28px;padding:40px}
-.top{position:absolute;left:72px;right:72px;top:210px}
+.shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(2,38,32,.45) 0%,rgba(2,38,32,.15) 35%,rgba(4,52,44,.9) 68%,#022620 100%)}
+.dim{position:absolute;inset:0;background:linear-gradient(180deg,rgba(4,52,44,.72),rgba(2,38,32,.9) 45%,#022620)}
+.logo{position:absolute;top:60px;left:72px;height:64px;border-radius:12px;box-shadow:0 0 0 2px rgba(93,202,165,.35)}
+.page{position:absolute;top:78px;right:72px;font:700 26px 'DM Sans';color:#5DCAA5;letter-spacing:.08em}
+.gold{color:#5DCAA5}
+h1{font:800 92px/1.04 'Playfair Display',serif;letter-spacing:-.01em}
+h2{font:800 66px/1.1 'Playfair Display',serif}
+.lead{font:500 34px/1.45 'DM Sans';color:#DDEFE7}
+.kicker{display:inline-block;font:700 24px 'DM Sans';letter-spacing:.2em;text-transform:uppercase;color:#022620;background:#5DCAA5;padding:10px 22px;border-radius:999px}
+.line{width:120px;height:6px;border-radius:3px;background:linear-gradient(90deg,#5DCAA5,#E8C84A)}
+.foot{position:absolute;left:72px;right:72px;bottom:56px;display:flex;justify-content:space-between;font:500 24px 'DM Sans';color:#9CC9B8;z-index:2}
+.card{background:rgba(255,255,255,.07);border:1.5px solid rgba(93,202,165,.4);border-radius:28px;padding:40px}
+.top{position:absolute;left:72px;right:72px;top:210px;z-index:1}
+.num{flex:0 0 72px;height:72px;border-radius:50%;background:#0F6E56;color:#F4F2EC;font:700 34px/72px 'DM Sans';text-align:center}
+.light{background:#F4F2EC;color:#2C2C2A}
+.light::after{border-color:rgba(15,110,86,.08)}
+.light .lead{color:#5F5E5A}.light .gold{color:#0F6E56}.light .kicker{background:#0F6E56;color:#F4F2EC}.light .page{color:#0F6E56}.light .foot{color:#5F5E5A}
+.wa{display:inline-flex;align-items:center;background:#25D366;color:#fff;border-radius:999px;padding:28px 48px;font:700 38px 'DM Sans';box-shadow:0 10px 30px rgba(37,211,102,.25)}
 `;
 
 const tpl = {
@@ -41,18 +48,18 @@ const tpl = {
       <h1>${gold(s.title)}</h1>
       <div style="height:36px"></div><div class="line"></div><div style="height:36px"></div>
       <p class="lead">${esc(s.lead)}</p></div>`,
-  points: s => `${s.bg ? `<div class="bg" style="background-image:url('${foto(s.bg)}');opacity:.2"></div>` : ''}
+  points: s => `
     <div class="top"><div class="kicker">${esc(s.kicker)}</div><div style="height:24px"></div>
       <h2>${gold(s.title)}</h2><div style="height:48px"></div>
       ${(s.items || []).slice(0, 5).map((it, i) => `<div style="display:flex;gap:28px;align-items:flex-start;margin-bottom:30px">
-        <div style="flex:0 0 72px;height:72px;border-radius:50%;background:linear-gradient(135deg,#f7dc8b,#a87a22);color:#0a0a0a;font:900 34px/72px Montserrat;text-align:center">${i + 1}</div>
-        <div><div style="font:800 36px/1.2 Montserrat">${esc(it.t)}</div><div style="height:6px"></div><p class="lead" style="font-size:28px;color:#cfc6b4">${esc(it.d)}</p></div></div>`).join('')}
+        <div class="num">${i + 1}</div>
+        <div><div style="font:700 36px/1.2 'DM Sans'">${esc(it.t)}</div><div style="height:6px"></div><p class="lead" style="font-size:28px">${esc(it.d)}</p></div></div>`).join('')}
     </div>`,
   stats: s => `<div class="bg" style="background-image:url('${foto(s.bg || 'factory-hall')}')"></div><div class="dim"></div>
     <div class="top" style="top:250px"><div class="kicker">${esc(s.kicker)}</div><div style="height:24px"></div>
       <h2>${gold(s.title)}</h2><div style="height:52px"></div>
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:28px">
-        ${(s.stats || []).slice(0, 4).map(x => `<div class="card" style="padding:36px"><div class="gold" style="font:900 56px/1.05 Montserrat">${esc(x.big)}</div><div style="height:14px"></div><p class="lead" style="font-size:27px">${esc(x.small)}</p></div>`).join('')}
+        ${(s.stats || []).slice(0, 4).map(x => `<div class="card" style="padding:36px"><div class="gold" style="font:800 56px/1.05 'Playfair Display',serif">${esc(x.big)}</div><div style="height:14px"></div><p class="lead" style="font-size:27px">${esc(x.small)}</p></div>`).join('')}
       </div>
       ${s.note ? `<div style="height:36px"></div><div class="card" style="padding:30px 36px"><p class="lead" style="font-size:28px">${esc(s.note)}</p></div>` : ''}
     </div>`,
@@ -65,10 +72,10 @@ const tpl = {
       </div><div style="height:56px"></div>
       <h2>${gold(s.title)}</h2><div style="height:24px"></div>
       <p class="lead">${esc(s.lead)}</p><div style="height:48px"></div>
-      <div style="display:inline-flex;align-items:center;background:linear-gradient(90deg,#f7dc8b,#c9963a);color:#0a0a0a;border-radius:999px;padding:28px 48px;font:800 38px Montserrat">${WA}</div></div>`
+      <div class="wa">${WA}</div></div>`
 };
 
-const page = (s, n, total) => `<!doctype html><html><head><meta charset="utf-8"><style>${css}</style></head><body><div class="s">
+const page = (s, n, total) => `<!doctype html><html><head><meta charset="utf-8"><style>${css}</style></head><body><div class="s${s.type === 'points' ? ' light' : ''}">
 ${(tpl[s.type] || tpl.points)(s)}
 <img class="logo" src="${IMG}logo-gold.jpg"><div class="page">${n}/${total}</div>
 <div class="foot"><span>indofilamentglobalplastic.com</span><span>${n < total ? 'Geser &rarr;' : 'Sampel tersedia'}</span></div></div></body></html>`;
