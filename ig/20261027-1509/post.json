@@ -1,0 +1,72 @@
+{
+  "id": "20261027-1509",
+  "topic": "WRITE EVERYTHING IN FULL ENGLISH (all slide text and the whole caption, no Indonesian at all; English hashtags only). Audience: international and local B2B buyers. INTRO SERIES 2 of 3 - ABOUT US. Cover kicker: About Us. Content: our factory in Tangerang, Indonesia, fully operating since February 2026 with modern filament machines; capacity up to 5 tons per day; recycled plastic raw materials, eco-friendly; trusted by the Nagoya brand (PT Benli Indonesia); our factory is open for visits. Our values: consistent quality, eco-friendly production, long-term partnership. Caption: part 2 of our introduction series.",
+  "created": "2026-10-27T08:09:13.190Z",
+  "caption": "Behind every bristle is a factory you can trust. 🏭\n\nPart 2 of our introduction series: About Us.\n\nOur factory in Tangerang, Indonesia has been fully operating since February 2026 with modern filament machines, with capacity of up to 5 tons per day for domestic and export markets. We use recycled plastic raw materials, making our production more eco-friendly.\n\nOur values are simple:\n✅ Consistent quality\n♻️ Eco-friendly production\n🤝 Long-term partnership\n\nWe are proud to be trusted by the Nagoya brand (PT Benli Indonesia), and we supply almost all of their broom and brush bristles. Our factory is open for visits, so come and see how we work.\n\nRequest a sample via WhatsApp +62 831-6591-3330 or send us a DM.\n\nFor international buyers: our Indonesian nylon filament factory welcomes OEM and private label inquiries, and offers sample requests and factory visits. Contact us today.\n\n#broomfilament #brushfilament #nylonfilament #filamentmanufacturer #madeinindonesia #bristlesupplier #privatelabel #OEM #ecofriendly #recycledmaterials #b2b",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "About Us",
+      "title": "Meet the *Factory* Behind Your Filament",
+      "lead": "Modern filament machines in Tangerang, Indonesia. Part 2 of 3 in our intro series.",
+      "bg": "factory-hall"
+    },
+    {
+      "type": "stats",
+      "kicker": "By the Numbers",
+      "title": "Our Factory in *Numbers*",
+      "stats": [
+        {
+          "big": "5 tons",
+          "small": "Capacity per day, up to"
+        },
+        {
+          "big": "Feb 2026",
+          "small": "Fully operating since"
+        },
+        {
+          "big": "Recycled",
+          "small": "Plastic raw materials"
+        },
+        {
+          "big": "2 Markets",
+          "small": "Domestic and export supply"
+        }
+      ],
+      "note": "Modern filament machines in Tangerang, Banten, Indonesia.",
+      "bg": "home-hero-bg"
+    },
+    {
+      "type": "points",
+      "kicker": "Our Values",
+      "title": "What We *Stand* For",
+      "items": [
+        {
+          "t": "Consistent quality",
+          "d": "Modern machines for filament you can rely on, order after order."
+        },
+        {
+          "t": "Eco-friendly production",
+          "d": "Recycled plastic raw materials for a greener filament supply."
+        },
+        {
+          "t": "Long-term partnership",
+          "d": "We grow with brand owners, distributors and importers."
+        }
+      ],
+      "bg": ""
+    },
+    {
+      "type": "photo",
+      "kicker": "Our Partner",
+      "title": "Trusted by the *Nagoya* Brand",
+      "lead": "Since February 2026 we supply almost all broom and brush bristles for Nagoya by PT Benli Indonesia.",
+      "photo": "brush-bundles"
+    },
+    {
+      "type": "cta",
+      "title": "Visit Our Factory, Request a *Sample*",
+      "lead": "Our factory is open for visits. WhatsApp +62 831-6591-3330 or visit indofilamentglobalplastic.com"
+    }
+  ]
+}
