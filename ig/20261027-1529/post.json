@@ -1,0 +1,75 @@
+{
+  "id": "20261027-1529",
+  "topic": "WRITE EVERYTHING IN FULL ENGLISH (all slide text and the whole caption, no Indonesian at all; English hashtags only). Audience: international and local B2B buyers. INTRO SERIES 1 of 3 - WHO WE ARE. Cover kicker: Who We Are. The cover background MUST be bg team (our team photo at the grand opening of our office). Content: a warm hello as the first post of this account; we are Indofilament (PT Indofilament Global Plastic), a broom and brush bristle (nylon filament) manufacturer from Tangerang, Indonesia, serving broom and brush factories and brands in Indonesia and export buyers; who we work with; what to expect on this account (products, colors, behind the scenes at the factory, tips for choosing bristles). Caption: part 1 of our introduction series, invite people to follow.",
+  "created": "2026-10-27T08:29:23.443Z",
+  "caption": "Hello, world! 👋 We are Indofilament (PT Indofilament Global Plastic), a broom and brush bristle manufacturer based in Tangerang, Indonesia.\n\nThis is part 1 of our 3-part introduction series.\n\nWe make nylon filament for brooms and brushes, from floor, toilet and kitchen brushes to paint brushes and industrial brushes, plus custom OEM and private label filament and our Gold Series. Our raw materials are recycled plastic, and we have been in full operation with modern filament machines since February 2026, serving broom and brush factories and brands in Indonesia as well as export buyers.\n\nWhat to expect on this account: our products, colors, behind-the-scenes looks at the factory, and practical tips for choosing the right bristles.\n\nFollow us so you don't miss parts 2 and 3! 🙌\n\nRequest a sample via WhatsApp +62 831-6591-3330 or send us a DM. Factory visits are welcome.\n\nFor export buyers: we supply nylon broom and brush filament with custom diameter, length, stiffness and color. Message us to discuss your needs.\n\n#broomfilament #brushfilament #nylonfilament #bristlemanufacturer #madeinindonesia #brushmaker #broommaker #oem #privatelabel #recycledmaterials #b2b #indofilament",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Who We Are",
+      "title": "Hello, we are *Indofilament*",
+      "lead": "Broom and brush bristle manufacturer from Tangerang, Indonesia.",
+      "bg": "team"
+    },
+    {
+      "type": "points",
+      "kicker": "About Us",
+      "title": "What We *Make*",
+      "items": [
+        {
+          "t": "Nylon filament",
+          "d": "Broom and brush bristles made in Tangerang, Indonesia"
+        },
+        {
+          "t": "Custom and OEM",
+          "d": "Diameter, length, stiffness and color made to order"
+        },
+        {
+          "t": "Gold Series",
+          "d": "Bright Gold and Copper Gold with a pearl finish"
+        },
+        {
+          "t": "Recycled raw materials",
+          "d": "Eco-friendly, recycled plastic raw materials"
+        }
+      ],
+      "bg": "brush-bristles"
+    },
+    {
+      "type": "photo",
+      "kicker": "Our Partners",
+      "title": "Who We *Work With*",
+      "lead": "Broom and brush makers at home and abroad, including Nagoya by PT Benli Indonesia.",
+      "photo": "custom-oem"
+    },
+    {
+      "type": "points",
+      "kicker": "Follow Along",
+      "title": "What to *Expect* Here",
+      "items": [
+        {
+          "t": "Products",
+          "d": "Broom and brush bristles for every application"
+        },
+        {
+          "t": "Colors",
+          "d": "Standard shades, Gold Series and custom colors"
+        },
+        {
+          "t": "Factory stories",
+          "d": "Behind the scenes at our Tangerang factory"
+        },
+        {
+          "t": "Bristle tips",
+          "d": "Simple guidance on choosing the right bristle"
+        }
+      ],
+      "bg": "factory-hall"
+    },
+    {
+      "type": "cta",
+      "title": "Follow *Indofilament*",
+      "lead": "Request a sample on WhatsApp +62 831-6591-3330 or visit indofilamentglobalplastic.com"
+    }
+  ]
+}
