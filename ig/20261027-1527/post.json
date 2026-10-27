@@ -1,0 +1,72 @@
+{
+  "id": "20261027-1527",
+  "topic": "WRITE EVERYTHING IN FULL ENGLISH (all slide text and the whole caption, no Indonesian at all; English hashtags only). Audience: international and local B2B buyers. INTRO SERIES 2 of 3 - ABOUT US. Cover kicker: About Us. Content: our factory in Tangerang, Indonesia, fully operating since February 2026 with modern filament machines; capacity up to 5 tons per day; recycled plastic raw materials, eco-friendly; trusted by the Nagoya brand (PT Benli Indonesia); our factory is open for visits. Our values: consistent quality, eco-friendly production, long-term partnership. Use photo team (our team at the grand opening of our office) on one photo slide about the people behind Indofilament. Caption: part 2 of our introduction series.",
+  "created": "2026-10-27T08:27:22.578Z",
+  "caption": "Introduction Series, Part 2 of 3: About Us 🏭\n\nBehind every broom and brush is a filament supplier you can count on. Meet PT Indofilament Global Plastic, a nylon filament factory in Tangerang, Indonesia.\n\nWe have been fully operating since February 2026 with modern filament machines and a production capacity of up to 5 tons per day. Our filaments are made from recycled plastic raw materials, so quality and sustainability go hand in hand. We are proud to be trusted by the Nagoya brand (PT Benli Indonesia).\n\nWhat we stand for:\n✔ Consistent quality\n✔ Eco-friendly production\n✔ Long-term partnership\n\nBehind it all is our team, photographed here at our office grand opening. Our factory is open for visits, and we would be glad to show you how we work.\n\nRequest a sample via WhatsApp +62 831-6591-3330 or send us a DM.\n\nFor international buyers: we supply nylon broom and brush filaments for domestic and export markets, with OEM and private label options. Contact us for samples or to arrange a factory visit.\n\n📍 Jl. Perancis No.79, Dadap, Tangerang\n🌐 indofilamentglobalplastic.com\n\n#broomfilament #brushfilament #nylonfilament #filamentmanufacturer #madeinindonesia #ecofriendly #recycledmaterials #privatelabel #oemmanufacturer #b2b #factoryvisit #indofilament",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "About Us",
+      "title": "The *Factory* Behind Your Next *Filament* Supply",
+      "lead": "Modern filament machines in Tangerang, Indonesia, fully operating since February 2026.",
+      "bg": "factory-hall"
+    },
+    {
+      "type": "stats",
+      "kicker": "Our Factory",
+      "title": "Built for *Reliable* Volume",
+      "stats": [
+        {
+          "big": "5 tons",
+          "small": "Capacity per day, up to"
+        },
+        {
+          "big": "Feb 2026",
+          "small": "Fully operating since"
+        },
+        {
+          "big": "Recycled",
+          "small": "Eco-friendly raw materials"
+        },
+        {
+          "big": "Nagoya",
+          "small": "Trusted by PT Benli Indonesia"
+        }
+      ],
+      "note": "Modern filament machines. Our factory in Tangerang is open for visits.",
+      "bg": "home-hero-bg"
+    },
+    {
+      "type": "points",
+      "kicker": "Our Values",
+      "title": "Our *Values* Guide Every Batch",
+      "items": [
+        {
+          "t": "Consistent quality",
+          "d": "Reliable nylon filament, batch after batch, for your production."
+        },
+        {
+          "t": "Eco-friendly production",
+          "d": "Made from recycled plastic raw materials."
+        },
+        {
+          "t": "Long-term partnership",
+          "d": "We grow together with brands, distributors, and importers."
+        }
+      ],
+      "bg": "brush-bristles"
+    },
+    {
+      "type": "photo",
+      "kicker": "Our Team",
+      "title": "The *People* Behind Indofilament",
+      "lead": "Our team at our office grand opening, ready to support brands and buyers worldwide.",
+      "photo": "team"
+    },
+    {
+      "type": "cta",
+      "title": "Visit Our *Factory* in Tangerang",
+      "lead": "Request a sample or plan a visit. WhatsApp +62 831-6591-3330 or indofilamentglobalplastic.com"
+    }
+  ]
+}
