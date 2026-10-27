@@ -1,0 +1,93 @@
+{
+  "id": "20261027-1459",
+  "topic": "PERKENALAN 1 dari 3 - WHO WE ARE (siapa kami). Kicker cover: Who We Are. Isi: sapaan hangat untuk postingan pertama akun; kami Indofilament (PT Indofilament Global Plastic), produsen bulu sapu dan bulu sikat (filamen nilon) dari Tangerang untuk pabrik dan merek sapu/sikat di Indonesia maupun pembeli ekspor; untuk siapa kami bekerja; apa yang bisa diharapkan dari akun ini (produk, warna, behind the scenes pabrik, tips memilih bulu). Caption: bagian pertama dari seri perkenalan, ajak follow.",
+  "created": "2026-10-27T07:59:18.379Z",
+  "caption": "Halo! 👋 Ini postingan pertama kami, dan kami senang akhirnya bisa menyapa Anda.\n\nKami Indofilament (PT Indofilament Global Plastic), produsen bulu sapu dan bulu sikat (filamen nilon) dari Tangerang, Banten. Kami bekerja untuk pabrik dan merek sapu/sikat, distributor, serta pembeli ekspor. Pabrik kami beroperasi penuh sejak Februari 2026 dengan mesin filamen modern dan kapasitas hingga 5 ton per hari, memakai bahan baku plastik daur ulang yang ramah lingkungan.\n\nDi akun ini Anda bisa menantikan info produk dan pilihan warna, behind the scenes pabrik, serta tips memilih bulu yang tepat untuk produk Anda.\n\nIni bagian pertama dari seri perkenalan kami. Follow supaya tidak ketinggalan bagian berikutnya! 🙌\n\nMinta sampel via WhatsApp +62 831-6591-3330 atau kirim DM. Pabrik kami juga terbuka untuk dikunjungi.\n\nFor export buyers: we are a nylon broom and brush filament manufacturer based in Tangerang, Indonesia. Custom/OEM and private label available. Request a sample via WhatsApp +62 831-6591-3330.\n\n#bulusapu #bulusikat #filamen #pabriksapu #madeinindonesia #broomfilament #brushfilament #nylonfilament #filamennilon #tangerang #privatelabel #OEM",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Who We Are",
+      "title": "Halo, kami *Indofilament*, produsen bulu sapu & sikat",
+      "lead": "PT Indofilament Global Plastic, filamen nilon dari Tangerang.",
+      "bg": "factory-hall"
+    },
+    {
+      "type": "points",
+      "kicker": "Untuk Siapa",
+      "title": "Untuk *siapa* kami bekerja",
+      "items": [
+        {
+          "t": "Pabrik sapu & sikat",
+          "d": "Pasokan bulu sapu dan bulu sikat nilon untuk lini produksi Anda."
+        },
+        {
+          "t": "Pemilik merek",
+          "d": "Filamen custom/OEM dan private label sesuai kebutuhan merek."
+        },
+        {
+          "t": "Distributor",
+          "d": "Pilihan warna dan jenis bulu untuk berbagai kebutuhan pasar."
+        },
+        {
+          "t": "Importir & pembeli ekspor",
+          "d": "Melayani pasar domestik maupun ekspor."
+        }
+      ],
+      "bg": "brush-bundles"
+    },
+    {
+      "type": "stats",
+      "kicker": "Sekilas Kami",
+      "title": "Kami dalam *angka*",
+      "stats": [
+        {
+          "big": "Feb 2026",
+          "small": "Beroperasi penuh"
+        },
+        {
+          "big": "5 ton",
+          "small": "Kapasitas hingga per hari"
+        },
+        {
+          "big": "2 pasar",
+          "small": "Domestik dan ekspor"
+        },
+        {
+          "big": "Daur ulang",
+          "small": "Bahan baku ramah lingkungan"
+        }
+      ],
+      "note": "Mesin filamen modern di Tangerang, Banten.",
+      "bg": "home-hero-bg"
+    },
+    {
+      "type": "points",
+      "kicker": "Di Akun Ini",
+      "title": "Yang bisa Anda *nantikan*",
+      "items": [
+        {
+          "t": "Produk & warna",
+          "d": "Bulu sapu, bulu sikat, dan Gold Series dalam beragam pilihan warna."
+        },
+        {
+          "t": "Behind the scenes",
+          "d": "Intip proses produksi langsung dari pabrik kami."
+        },
+        {
+          "t": "Tips memilih bulu",
+          "d": "Panduan memilih filamen yang tepat untuk produk Anda."
+        },
+        {
+          "t": "Info sampel & OEM",
+          "d": "Cara meminta sampel dan memesan filamen custom."
+        }
+      ],
+      "bg": "brush-hero"
+    },
+    {
+      "type": "cta",
+      "title": "*Follow* untuk seri berikutnya",
+      "lead": "Minta sampel via WhatsApp +62 831-6591-3330 atau kirim DM."
+    }
+  ]
+}
