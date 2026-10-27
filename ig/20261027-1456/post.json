@@ -1,0 +1,58 @@
+{
+  "id": "20261027-1456",
+  "topic": "PERKENALAN 3 dari 3 - WHAT WE DO (apa yang kami kerjakan). Kicker cover: What We Do. Isi: produk dan layanan Indofilament: bulu sapu; bulu sikat untuk sikat lantai, WC, piring/dapur, cuci, kuas cat dan sikat industri; filamen custom OEM dan private label; Gold Series; warna, diameter, panjang dan kekakuan bisa disesuaikan; sampel bisa diminta. Caption: bagian ketiga dari seri perkenalan akun, ajak tanya kebutuhan via WhatsApp.",
+  "created": "2026-10-27T07:56:47.630Z",
+  "caption": "Apa sebenarnya yang kami kerjakan di Indofilament? 🏭\n\nIni bagian ketiga dari seri perkenalan akun kami. Setelah berkenalan, saatnya melihat apa saja yang kami produksi di Tangerang.\n\nKami membuat filamen nilon untuk bulu sapu dan bulu sikat: sikat lantai, WC, piring/dapur, cuci, kuas cat, hingga sikat industri. Untuk merek yang ingin tampil beda, tersedia filamen custom OEM dan private label, serta Gold Series (Bright Gold dan Copper Gold) dengan finishing pearl.\n\nWarna, diameter, panjang, dan kekakuan bisa disesuaikan dengan kebutuhan produk Anda. Bahan bakunya plastik daur ulang, jadi lebih ramah lingkungan. ♻️\n\nPunya kebutuhan tertentu? Ceritakan ke kami. Minta sampel via WhatsApp +62 831-6591-3330 atau DM, dan pabrik kami juga terbuka untuk dikunjungi.\n\nFor export buyers: Indofilament manufactures nylon filament for brooms and brushes, with custom OEM and private label options. Message us on WhatsApp +62 831-6591-3330 to request samples.\n\n#bulusapu #bulusikat #filamen #pabriksapu #madeinindonesia #broomfilament #brushfilament #nylonfilament #privatelabel #OEM #pabrikTangerang #indofilament",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "What We Do",
+      "title": "Filamen nilon untuk *sapu* dan *sikat* buatan Anda",
+      "lead": "Dari bulu sapu hingga filamen custom, kami produksi sesuai kebutuhan merek Anda.",
+      "bg": "brush-hero"
+    },
+    {
+      "type": "points",
+      "kicker": "Produk Kami",
+      "title": "Satu pabrik, *banyak* jenis filamen",
+      "items": [
+        {
+          "t": "Bulu Sapu",
+          "d": "Filamen nilon untuk berbagai jenis sapu."
+        },
+        {
+          "t": "Sikat Lantai dan WC",
+          "d": "Bulu sikat untuk pembersih lantai dan kamar mandi."
+        },
+        {
+          "t": "Sikat Piring dan Cuci",
+          "d": "Bulu sikat untuk dapur dan keperluan mencuci."
+        },
+        {
+          "t": "Kuas Cat dan Industri",
+          "d": "Bulu sikat untuk kuas cat dan sikat industri."
+        }
+      ],
+      "bg": "brush-bristles"
+    },
+    {
+      "type": "photo",
+      "kicker": "Layanan Custom",
+      "title": "Filamen *Custom* OEM dan Private Label",
+      "lead": "Diameter, panjang, kekakuan, dan warna bisa disesuaikan dengan spesifikasi produk merek Anda.",
+      "photo": "custom-oem"
+    },
+    {
+      "type": "photo",
+      "kicker": "Gold Series",
+      "title": "*Gold Series* finishing pearl",
+      "lead": "Bright Gold dan Copper Gold, tampilan istimewa untuk membedakan produk Anda di rak.",
+      "photo": "bright-gold"
+    },
+    {
+      "type": "cta",
+      "title": "Ceritakan *kebutuhan* Anda",
+      "lead": "Minta sampel via WhatsApp +62 831-6591-3330 atau kunjungi pabrik kami di Dadap, Tangerang."
+    }
+  ]
+}
