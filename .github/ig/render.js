@@ -45,8 +45,8 @@ h2{font:800 66px/1.1 'Playfair Display',serif}
 `;
 
 const tpl = {
-  cover: s => `<div class="bg" style="background-image:url('${foto(s.bg)}')"></div><div class="shade"></div>
-    <div style="position:absolute;left:72px;right:72px;bottom:170px">
+  cover: s => `<div class="bg" style="background-image:url('${foto(s.bg)}')"></div><div class="shade"${s.bg === 'team' ? ' style="background:linear-gradient(180deg,#022620 0%,rgba(2,38,32,.94) 42%,rgba(2,38,32,.45) 54%,rgba(2,38,32,0) 66%,rgba(2,38,32,0) 82%,rgba(2,38,32,.75) 100%)"' : ''}></div>
+    <div style="position:absolute;left:72px;right:72px;${s.bg === 'team' ? 'top:190px' : 'bottom:170px'}">
       <div class="kicker">${esc(s.kicker)}</div><div style="height:28px"></div>
       <h1>${gold(s.title)}</h1>
       <div style="height:36px"></div><div class="line"></div><div style="height:36px"></div>
@@ -100,7 +100,7 @@ ${Array.from({ length: n }, (_, i) => `<img src="${i + 1}.jpg" alt="Slide ${i + 
     for (const d of dirs) {
       const p = JSON.parse(fs.readFileSync(path.join(d, 'post.json'), 'utf8'));
       const slides = (p.slides || []).slice(0, 10);
-      EN = p.lang === 'en' || /ENGLISH/i.test(p.topic || '');
+      EN = p.lang === 'en' || String(p.topic || '').toUpperCase().includes('ENGLISH');
       if (!slides.length) throw new Error(d + ': slides kosong');
       for (let i = 0; i < slides.length; i++) {
         const tab = await browser.newPage();
