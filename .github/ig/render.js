@@ -10,7 +10,10 @@ const WA = 'WhatsApp +62 831-6591-3330';
 const esc = s => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 // *teks* = warna emas
 const gold = s => esc(s).replace(/\*([^*]+)\*/g, '<span class="gold">$1</span>').replace(/\*/g, '');
-const foto = f => IMG + (FOTO.includes(f) ? f : 'factory-hall') + '.jpg';
+// foto versi Instagram (mis. logo kaos di-blur) di .github/ig/foto/ dipakai kalau ada; selain itu foto website
+const FOTO_IG = path.join(__dirname, 'foto');
+const foto = f => { const n = (FOTO.includes(f) ? f : 'factory-hall') + '.jpg'; return fs.existsSync(path.join(FOTO_IG, n)) ? 'file://' + path.join(FOTO_IG, n).replace(/\/g, '/') : IMG + n; };
+let EN = false; // postingan berbahasa Inggris (topik memuat kata ENGLISH atau post.lang = 'en')
 
 // Tema mengikuti website: hijau tua + mint + krem, judul Playfair Display, isi DM Sans. Slide "points" berlatar krem.
 const css = `
@@ -68,7 +71,7 @@ const tpl = {
       <div style="height:680px;border-radius:28px;background:url('${foto(s.photo)}') center/cover"></div>
       <div style="height:40px"></div><p class="lead">${esc(s.lead)}</p></div>`,
   cta: s => `<div class="top"><div style="display:grid;grid-template-columns:repeat(3,1fr);gap:18px">
-        ${['yellow', 'green', 'blue', 'pink', 'bright-gold', 'copper-gold'].map(c => `<div style="height:220px;border-radius:22px;background:url('${IMG}${c}.jpg') center/cover"></div>`).join('')}
+        ${['yellow', 'green', 'blue', 'pink', 'bright-gold', 'copper-gold'].map(c => `<div style="height:220px;border-radius:22px;background:url('${foto(c)}') center/cover"></div>`).join('')}
       </div><div style="height:56px"></div>
       <h2>${gold(s.title)}</h2><div style="height:24px"></div>
       <p class="lead">${esc(s.lead)}</p><div style="height:48px"></div>
@@ -78,7 +81,7 @@ const tpl = {
 const page = (s, n, total) => `<!doctype html><html><head><meta charset="utf-8"><style>${css}</style></head><body><div class="s${s.type === 'points' ? ' light' : ''}">
 ${(tpl[s.type] || tpl.points)(s)}
 <img class="logo" src="${IMG}logo-gold.jpg"><div class="page">${n}/${total}</div>
-<div class="foot"><span>indofilamentglobalplastic.com</span><span>${n < total ? 'Geser &rarr;' : 'Sampel tersedia'}</span></div></div></body></html>`;
+<div class="foot"><span>indofilamentglobalplastic.com</span><span>${n < total ? (EN ? 'Swipe &rarr;' : 'Geser &rarr;') : (EN ? 'Samples available' : 'Sampel tersedia')}</span></div></div></body></html>`;
 
 const preview = (p, n) => `<!doctype html><html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow">
 <title>Preview Instagram ${esc(p.id)}</title><style>body{margin:0;background:#111;color:#eee;font:16px/1.5 system-ui,sans-serif}main{max-width:560px;margin:0 auto;padding:16px}img{width:100%;display:block;margin:0 0 12px;border-radius:8px}pre{white-space:pre-wrap;background:#1b1b1b;padding:16px;border-radius:8px;font:15px/1.5 system-ui,sans-serif}</style></head>
@@ -97,6 +100,7 @@ ${Array.from({ length: n }, (_, i) => `<img src="${i + 1}.jpg" alt="Slide ${i + 
     for (const d of dirs) {
       const p = JSON.parse(fs.readFileSync(path.join(d, 'post.json'), 'utf8'));
       const slides = (p.slides || []).slice(0, 10);
+      EN = p.lang === 'en' || /ENGLISH/i.test(p.topic || '');
       if (!slides.length) throw new Error(d + ': slides kosong');
       for (let i = 0; i < slides.length; i++) {
         const tab = await browser.newPage();
