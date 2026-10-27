@@ -4,7 +4,7 @@ const fs = require('fs'), path = require('path');
 const puppeteer = require('puppeteer-core');
 const ROOT = path.join(__dirname, '..', '..');
 const IMG = 'file://' + path.join(ROOT, 'img').replace(/\\/g, '/') + '/';
-const FOTO = ['bright-gold', 'copper-gold', 'yellow', 'green', 'blue', 'pink', 'broom-bristles', 'brush-bristles', 'brush-bundles', 'brush-hero', 'brush-hero2', 'custom-oem', 'custom-samples', 'factory-hall', 'home-hero-bg'];
+const FOTO = ['bright-gold', 'copper-gold', 'yellow', 'green', 'blue', 'pink', 'broom-bristles', 'brush-bristles', 'brush-bundles', 'brush-hero', 'brush-hero2', 'custom-oem', 'custom-samples', 'factory-hall', 'home-hero-bg', 'team'];
 const WA = 'WhatsApp +62 831-6591-3330';
 
 const esc = s => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -12,7 +12,7 @@ const esc = s => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g,
 const gold = s => esc(s).replace(/\*([^*]+)\*/g, '<span class="gold">$1</span>').replace(/\*/g, '');
 // foto versi Instagram (mis. logo kaos di-blur) di .github/ig/foto/ dipakai kalau ada; selain itu foto website
 const FOTO_IG = path.join(__dirname, 'foto');
-const foto = f => { const n = (FOTO.includes(f) ? f : 'factory-hall') + '.jpg'; return fs.existsSync(path.join(FOTO_IG, n)) ? 'file://' + path.join(FOTO_IG, n).replace(/\/g, '/') : IMG + n; };
+const foto = f => { const n = (FOTO.includes(f) ? f : 'factory-hall') + '.jpg'; return fs.existsSync(path.join(FOTO_IG, n)) ? 'file://' + path.join(FOTO_IG, n).split(path.sep).join('/') : IMG + n; };
 let EN = false; // postingan berbahasa Inggris (topik memuat kata ENGLISH atau post.lang = 'en')
 
 // Tema mengikuti website: hijau tua + mint + krem, judul Playfair Display, isi DM Sans. Slide "points" berlatar krem.
