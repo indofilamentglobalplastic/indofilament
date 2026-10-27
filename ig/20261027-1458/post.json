@@ -1,0 +1,72 @@
+{
+  "id": "20261027-1458",
+  "topic": "PERKENALAN 2 dari 3 - ABOUT US (tentang kami). Kicker cover: About Us. Isi: pabrik di Tangerang beroperasi penuh sejak Februari 2026 dengan mesin filamen modern, kapasitas hingga 5 ton per hari, bahan baku plastik daur ulang yang ramah lingkungan, dipercaya merek Nagoya (PT Benli Indonesia), pabrik terbuka untuk dikunjungi. Nilai kami: kualitas konsisten, ramah lingkungan, partner jangka panjang. Caption: bagian kedua dari seri perkenalan akun.",
+  "created": "2026-10-27T07:58:05.452Z",
+  "caption": "Siapa di balik filamen bulu sapu dan bulu sikat Anda? 🏭 Inilah bagian kedua dari seri perkenalan kami.\n\nPT Indofilament Global Plastic adalah pabrik filamen nilon di Tangerang yang beroperasi penuh sejak Februari 2026. Dengan mesin filamen modern, kapasitas produksi kami mencapai hingga 5 ton per hari untuk melayani pasar domestik dan ekspor. Bahan baku kami adalah plastik daur ulang yang ramah lingkungan.\n\nKami juga dipercaya merek Nagoya milik PT Benli Indonesia. Sejak Februari 2026, kami memasok hampir seluruh bulu sapu dan sikat Nagoya. Bagi kami, kualitas konsisten, ramah lingkungan, dan menjadi partner jangka panjang adalah nilai yang selalu kami jaga.\n\nPabrik kami terbuka untuk dikunjungi. Minta sampel via WhatsApp +62 831-6591-3330 atau DM kami. 📩\n\nFor export buyers: our Tangerang factory has been fully operational since February 2026, with capacity of up to 5 tons per day. Visits and samples are welcome.\n\n#bulusapu #bulusikat #filamen #pabriksapu #pabrikfilamen #madeinindonesia #broomfilament #brushfilament #nylonfilament #privatelabel #tangerang #ramahlingkungan",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "About Us",
+      "title": "Mengenal *Indofilament*, Pabrik Filamen dari Tangerang",
+      "lead": "Beroperasi penuh sejak Februari 2026 dengan mesin filamen modern.",
+      "bg": "factory-hall"
+    },
+    {
+      "type": "points",
+      "kicker": "Nilai Kami",
+      "title": "Tiga *Nilai* yang Kami Pegang",
+      "items": [
+        {
+          "t": "Kualitas Konsisten",
+          "d": "Filamen yang seragam agar produksi Anda berjalan lancar."
+        },
+        {
+          "t": "Ramah Lingkungan",
+          "d": "Bahan baku plastik daur ulang untuk produksi yang lebih bertanggung jawab."
+        },
+        {
+          "t": "Partner Jangka Panjang",
+          "d": "Pasokan dan komunikasi yang bisa diandalkan untuk bisnis Anda."
+        }
+      ],
+      "bg": ""
+    },
+    {
+      "type": "stats",
+      "kicker": "Pabrik Kami",
+      "title": "Pabrik dalam *Angka*",
+      "stats": [
+        {
+          "big": "5 Ton",
+          "small": "Kapasitas hingga per hari"
+        },
+        {
+          "big": "Feb 2026",
+          "small": "Beroperasi penuh"
+        },
+        {
+          "big": "Daur Ulang",
+          "small": "Bahan baku ramah lingkungan"
+        },
+        {
+          "big": "Nagoya",
+          "small": "Dipercaya PT Benli Indonesia"
+        }
+      ],
+      "note": "Indofilament memasok hampir seluruh bulu sapu dan sikat Nagoya.",
+      "bg": "brush-bundles"
+    },
+    {
+      "type": "photo",
+      "kicker": "Open Factory",
+      "title": "Pabrik Kami *Terbuka* untuk Dikunjungi",
+      "lead": "Lihat langsung mesin dan proses produksi kami di Dadap, Tangerang. Jadwalkan kunjungan via WhatsApp.",
+      "photo": "home-hero-bg"
+    },
+    {
+      "type": "cta",
+      "title": "Mari *Tumbuh* Bersama Kami",
+      "lead": "Minta sampel atau kunjungi pabrik kami. WhatsApp +62 831-6591-3330"
+    }
+  ]
+}
