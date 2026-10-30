@@ -1,0 +1,62 @@
+{
+  "id": "20261030-1000",
+  "topic": "5 hal yang dicek pabrik sapu sebelum memilih supplier bulu",
+  "created": "2026-10-30T03:00:45.692Z",
+  "caption": "Sebelum menentukan supplier bulu, pabrik sapu dan sikat yang cermat biasanya sudah punya daftar periksa. Ini 5 hal yang layak Anda cek:\n\n1. Konsistensi diameter serat, agar hasil sapu rapi dan awet.\n2. Kualitas bahan nilon yang stabil dari batch ke batch.\n3. Kekakuan bulu yang sesuai fungsi produk akhir.\n4. Kapasitas produksi, supaya pasokan tetap aman saat order naik.\n5. Opsi custom, OEM, dan private label, serta respons tim saat revisi.\n\nDi Indofilament Global Plastic, kami memproduksi bulu sapu dan bulu sikat dari bahan baku plastik daur ulang yang ramah lingkungan. Tersedia warna kuning, hijau, biru, pink, serta Gold Series Bright Gold dan Copper Gold. Warna merah, ungu, oranye, hitam, putih, dan custom juga bisa dipesan.\n\nIngin mencoba dulu? Minta sampel via WhatsApp +62 831-6591-3330 atau kirim DM ke kami. Anda juga bisa berkunjung langsung ke pabrik kami di Tangerang.\n\nLooking for reliable broom and brush filament? Contact us for samples and custom options.\n\n#bulusapu #bulusikat #filamen #pabriksapu #pabriksikat #supplierbulu #madeinindonesia #broomfilament #brushfilament #recycledplastic",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Tips Supplier Bulu",
+      "title": "5 Hal Sebelum Pilih *Supplier Bulu* untuk Pabrik Sapu",
+      "lead": "Dari konsistensi serat sampai layanan, ini yang biasanya diperiksa sebelum kerja sama.",
+      "bg": "brush-hero"
+    },
+    {
+      "type": "points",
+      "kicker": "Checklist Supplier",
+      "title": "5 Hal yang Perlu *Dicek*",
+      "items": [
+        {
+          "t": "Konsistensi diameter",
+          "d": "Serat yang seragam menjaga hasil sapu tetap rapi dan tidak cepat rontok."
+        },
+        {
+          "t": "Bahan nilon yang stabil",
+          "d": "Pastikan kualitas bahan konsisten dari batch ke batch."
+        },
+        {
+          "t": "Kekakuan sesuai fungsi",
+          "d": "Sapu lantai, sikat WC, dan kuas cat membutuhkan karakter bulu yang berbeda."
+        },
+        {
+          "t": "Kapasitas produksi",
+          "d": "Pasokan harus tetap stabil saat pesanan naik, bukan hanya saat sampel."
+        },
+        {
+          "t": "Opsi custom dan layanan",
+          "d": "Cek warna, ukuran, OEM, private label, dan respons tim saat revisi."
+        }
+      ],
+      "bg": "brush-bundles"
+    },
+    {
+      "type": "photo",
+      "kicker": "Uji Sebelum Order",
+      "title": "Mulai dari *Sampel* Anda Sendiri",
+      "lead": "Minta sampel untuk diuji di mesin dan lini produksi Anda. Hasil nyata lebih meyakinkan daripada janji di brosur.",
+      "photo": "custom-samples"
+    },
+    {
+      "type": "photo",
+      "kicker": "Lihat Langsung",
+      "title": "Kunjungi *Pabrik* Kami",
+      "lead": "Lihat proses produksi, kontrol kualitas, dan kapasitas kami secara langsung di Tangerang.",
+      "photo": "factory-hall"
+    },
+    {
+      "type": "cta",
+      "title": "Diskusikan Kebutuhan Bulu Anda",
+      "lead": "Minta sampel via WhatsApp +62 831-6591-3330 atau kirim DM ke kami sekarang."
+    }
+  ]
+}
