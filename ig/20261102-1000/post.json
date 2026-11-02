@@ -1,0 +1,76 @@
+{
+  "id": "20261102-1000",
+  "topic": "Pilihan warna bulu sapu dan bulu sikat: kuning, hijau, biru, pink, Gold Series, dan custom",
+  "created": "2026-11-02T03:00:38.649Z",
+  "caption": "Warna bukan sekadar tampilan. Warna yang tepat bisa membuat produk Anda lebih mudah dikenali di rak. 🌈\n\nDi Indofilament, bulu sapu dan bulu sikat kami tersedia dalam warna kuning, hijau, biru, dan pink. Ada juga Gold Series dengan pilihan Bright Gold dan Copper Gold yang berfinishing pearl. Untuk warna merah, ungu, oranye, hitam, putih, atau warna custom, silakan konsultasikan kebutuhan Anda. Diameter, panjang, dan kekakuan juga bisa disesuaikan.\n\nBahan utamanya nilon dari bahan baku plastik daur ulang, jadi tetap ramah lingkungan.\n\nMau melihat warnanya langsung? Minta sampel via WhatsApp +62 831-6591-3330 atau DM kami. ✨ Pabrik kami di Tangerang juga terbuka untuk kunjungan.\n\nFor international buyers: We offer filament in yellow, green, blue, pink, and Gold Series (Bright Gold & Copper Gold), plus red, purple, orange, black, white, and custom colors. Request samples anytime.\n\n#bulusapu #bulusikat #filamen #pabriksapu #madeinindonesia #broomfilament #brushfilament #warnabulusapu #goldseries #ramahlingkungan",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Pilihan Warna Bulu",
+      "title": "Warna Bulu Sapu & Sikat, *Sesuai* Brand Anda",
+      "lead": "Dari warna standar hingga Gold Series dan custom, pilih yang paling cocok untuk produk Anda.",
+      "bg": "bright-gold"
+    },
+    {
+      "type": "points",
+      "kicker": "Pilihan Warna",
+      "title": "Warna yang Bisa Anda Pilih",
+      "items": [
+        {
+          "t": "Kuning, Hijau, Biru, Pink",
+          "d": "Pilihan warna standar untuk berbagai lini sapu dan sikat."
+        },
+        {
+          "t": "Gold Series",
+          "d": "Bright Gold dan Copper Gold dengan finishing pearl."
+        },
+        {
+          "t": "Merah, Ungu, Oranye",
+          "d": "Warna lain yang juga bisa dipesan sesuai kebutuhan."
+        },
+        {
+          "t": "Hitam, Putih, Custom",
+          "d": "Warna custom bisa disesuaikan. Diameter, panjang, dan kekakuan juga fleksibel."
+        }
+      ],
+      "bg": "brush-bundles"
+    },
+    {
+      "type": "stats",
+      "kicker": "Fleksibilitas",
+      "title": "Satu Bulu, Banyak Pilihan",
+      "stats": [
+        {
+          "big": "5 Ton",
+          "small": "kapasitas produksi per hari"
+        },
+        {
+          "big": "Custom",
+          "small": "warna, diameter, dan kekakuan"
+        },
+        {
+          "big": "Daur Ulang",
+          "small": "dari bahan baku plastik daur ulang"
+        },
+        {
+          "big": "Ekspor",
+          "small": "melayani pasar domestik dan ekspor"
+        }
+      ],
+      "note": "Lihat langsung warnanya melalui sampel sebelum memutuskan.",
+      "bg": "green"
+    },
+    {
+      "type": "photo",
+      "kicker": "Sampel",
+      "title": "Lihat Langsung Warnanya",
+      "lead": "Minta sampel untuk memastikan warna dan karakter bulu sesuai kebutuhan produk Anda sebelum produksi.",
+      "photo": "custom-samples"
+    },
+    {
+      "type": "cta",
+      "title": "Konsultasikan Warna Pilihan Anda",
+      "lead": "Minta sampel via WhatsApp +62 831-6591-3330 atau DM kami sekarang."
+    }
+  ]
+}
