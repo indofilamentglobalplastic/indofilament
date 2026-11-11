@@ -1,80 +1,81 @@
 {
   "id": "20261026-1815",
-  "topic": "Gold Series: bulu sapu warna emas (Bright Gold & Copper Gold, finishing pearl) yang bikin produk naik kelas",
+  "topic": "Gold Series: gold broom bristles (Bright Gold & Copper Gold, pearl finish) that elevate your product",
   "created": "2026-10-26T11:15:34.294Z",
-  "caption": "Mau sapu produk Anda tampil beda di rak toko? ✨ Gold Series dari Indofilament hadir dengan dua pilihan warna emas: Bright Gold yang cerah berkilau dan Copper Gold yang hangat dan elegan, keduanya dengan finishing pearl yang memberi kesan premium.\n\nDibuat dari filamen nilon dengan bahan baku plastik daur ulang yang ramah lingkungan, diproduksi di pabrik kami di Tangerang dengan mesin filamen modern berkapasitas hingga 5 ton per hari. Diameter, panjang, dan kekakuan bisa disesuaikan, dan tersedia juga untuk OEM dan private label. Cocok untuk pemilik merek sapu, distributor, maupun importir yang ingin menaikkan kelas produknya.\n\nMinta sampel via WhatsApp +62 831-6591-3330 atau DM kami. Pabrik juga terbuka untuk dikunjungi di Jl. Perancis No.79, Dadap, Tangerang.\n\nFor export buyers: our Gold Series broom filament (Bright Gold & Copper Gold, pearl finish) is nylon filament made with recycled plastic raw materials. Samples available on request.\n\n#bulusapu #bulusikat #filamen #pabriksapu #madeinindonesia #goldseries #broomfilament #brushfilament #privatelabel #OEM #ramahlingkungan #Tangerang",
+  "lang": "en",
+  "caption": "Want your brooms to stand out on the shelf? ✨ Indofilament's Gold Series comes in two gold shades: Bright Gold, bright and shiny, and Copper Gold, warm and elegant, both with a pearl finish that gives a premium look.\n\nMade from nylon filament using recycled plastic raw materials, produced at our factory in Tangerang with modern filament machines of up to 5 tons per day. Diameter, length, and stiffness can be customized, and OEM and private label are also available. Ideal for broom brand owners, distributors, and importers who want to take their product range up a level.\n\nRequest a sample via WhatsApp +62 831-6591-3330 or DM us. Our factory is also open for visits at Jl. Perancis No.79, Dadap, Tangerang.\n\n#broomfilament #brushfilament #nylonfilament #goldseries #madeinindonesia #privatelabel #OEM #broommanufacturer #recycledmaterials #Tangerang",
   "slides": [
     {
       "type": "cover",
       "kicker": "Gold Series",
-      "title": "Bulu Sapu *Emas* yang Bikin Produk Naik Kelas",
-      "lead": "Bright Gold dan Copper Gold dengan finishing pearl untuk merek sapu Anda.",
+      "title": "Gold Broom Bristles That *Elevate* Your Product",
+      "lead": "Bright Gold and Copper Gold with a pearl finish for your broom brand.",
       "bg": "bright-gold"
     },
     {
       "type": "photo",
       "kicker": "Bright Gold",
-      "title": "Tampil *Beda* di Rak Toko",
-      "lead": "Bright Gold berkilau cerah dengan finishing pearl, membuat sapu langsung menarik perhatian pembeli.",
+      "title": "Stand *Out* on the Shelf",
+      "lead": "Bright Gold shines with a pearl finish, so brooms catch the buyer's eye right away.",
       "photo": "bright-gold"
     },
     {
       "type": "points",
-      "kicker": "Dua Pilihan Warna",
-      "title": "Dua Varian, Satu *Kelas* Premium",
+      "kicker": "Two Colors",
+      "title": "Two Variants, One *Premium* Class",
       "items": [
         {
           "t": "Bright Gold",
-          "d": "Emas cerah berkilau, kesan segar dan mewah"
+          "d": "Bright, shiny gold with a fresh, luxe look"
         },
         {
           "t": "Copper Gold",
-          "d": "Emas kemerahan yang hangat dan elegan"
+          "d": "Warm, reddish gold that feels elegant"
         },
         {
-          "t": "Finishing Pearl",
-          "d": "Kilau lembut yang memberi kesan premium"
+          "t": "Pearl Finish",
+          "d": "A soft shine that adds a premium feel"
         },
         {
-          "t": "Bisa Disesuaikan",
-          "d": "Diameter, panjang, dan kekakuan sesuai kebutuhan"
+          "t": "Customizable",
+          "d": "Diameter, length, and stiffness to your needs"
         },
         {
           "t": "Private Label",
-          "d": "Cocok untuk lini premium merek Anda"
+          "d": "Ideal for your brand's premium line"
         }
       ],
       "bg": "copper-gold"
     },
     {
       "type": "stats",
-      "kicker": "Siap Produksi",
-      "title": "Kualitas *Konsisten* Skala Pabrik",
+      "kicker": "Production Ready",
+      "title": "Consistent *Quality* at Factory Scale",
       "stats": [
         {
-          "big": "5 ton/hari",
-          "small": "kapasitas produksi hingga"
+          "big": "5 tons/day",
+          "small": "production capacity of up to"
         },
         {
-          "big": "2 Varian",
-          "small": "warna emas pilihan"
+          "big": "2 Variants",
+          "small": "gold color options"
         },
         {
           "big": "Pearl",
-          "small": "finishing berkilau lembut"
+          "small": "soft glossy finish"
         },
         {
           "big": "OEM",
-          "small": "custom dan private label"
+          "small": "custom and private label"
         }
       ],
-      "note": "Dibuat dari bahan baku plastik daur ulang, ramah lingkungan.",
+      "note": "Made from recycled plastic raw materials, eco-friendly.",
       "bg": "factory-hall"
     },
     {
       "type": "cta",
-      "title": "Minta *Sampel* Gold Series",
-      "lead": "WhatsApp +62 831-6591-3330 atau kunjungi indofilamentglobalplastic.com"
+      "title": "Request a Gold Series *Sample*",
+      "lead": "WhatsApp +62 831-6591-3330 or visit indofilamentglobalplastic.com"
     }
   ]
 }

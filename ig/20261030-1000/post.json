@@ -1,62 +1,63 @@
 {
   "id": "20261030-1000",
-  "topic": "5 hal yang dicek pabrik sapu sebelum memilih supplier bulu",
+  "topic": "5 things a broom factory checks before choosing a bristle supplier",
   "created": "2026-10-30T03:00:45.692Z",
-  "caption": "Sebelum menentukan supplier bulu, pabrik sapu dan sikat yang cermat biasanya sudah punya daftar periksa. Ini 5 hal yang layak Anda cek:\n\n1. Konsistensi diameter serat, agar hasil sapu rapi dan awet.\n2. Kualitas bahan nilon yang stabil dari batch ke batch.\n3. Kekakuan bulu yang sesuai fungsi produk akhir.\n4. Kapasitas produksi, supaya pasokan tetap aman saat order naik.\n5. Opsi custom, OEM, dan private label, serta respons tim saat revisi.\n\nDi Indofilament Global Plastic, kami memproduksi bulu sapu dan bulu sikat dari bahan baku plastik daur ulang yang ramah lingkungan. Tersedia warna kuning, hijau, biru, pink, serta Gold Series Bright Gold dan Copper Gold. Warna merah, ungu, oranye, hitam, putih, dan custom juga bisa dipesan.\n\nIngin mencoba dulu? Minta sampel via WhatsApp +62 831-6591-3330 atau kirim DM ke kami. Anda juga bisa berkunjung langsung ke pabrik kami di Tangerang.\n\nLooking for reliable broom and brush filament? Contact us for samples and custom options.\n\n#bulusapu #bulusikat #filamen #pabriksapu #pabriksikat #supplierbulu #madeinindonesia #broomfilament #brushfilament #recycledplastic",
+  "lang": "en",
+  "caption": "Before choosing a bristle supplier, a careful broom and brush factory usually has a checklist. Here are 5 things worth checking:\n\n1. Fiber diameter consistency, for neat and durable brooms.\n2. Stable nylon quality from batch to batch.\n3. Bristle stiffness that suits the function of the final product.\n4. Production capacity, so supply stays secure when orders grow.\n5. Custom, OEM, and private label options, plus how responsive the team is on revisions.\n\nAt Indofilament Global Plastic, we produce broom and brush bristles from eco-friendly recycled plastic raw materials. Available in yellow, green, blue, pink, and our Gold Series Bright Gold and Copper Gold. Red, purple, orange, black, white, and custom colors can also be ordered.\n\nWant to try first? Request a sample via WhatsApp +62 831-6591-3330 or send us a DM. You can also visit our factory in Tangerang in person.\n\n#broomfilament #brushfilament #nylonfilament #bristlesupplier #broommanufacturer #brushmanufacturer #madeinindonesia #privatelabel #OEM #recycledmaterials",
   "slides": [
     {
       "type": "cover",
-      "kicker": "Tips Supplier Bulu",
-      "title": "5 Hal Sebelum Pilih *Supplier Bulu* untuk Pabrik Sapu",
-      "lead": "Dari konsistensi serat sampai layanan, ini yang biasanya diperiksa sebelum kerja sama.",
+      "kicker": "Bristle Supplier Tips",
+      "title": "5 Things Before Choosing a *Bristle Supplier*",
+      "lead": "From fiber consistency to service, here is what is usually checked before partnering.",
       "bg": "brush-hero"
     },
     {
       "type": "points",
-      "kicker": "Checklist Supplier",
-      "title": "5 Hal yang Perlu *Dicek*",
+      "kicker": "Supplier Checklist",
+      "title": "5 Things to *Check*",
       "items": [
         {
-          "t": "Konsistensi diameter",
-          "d": "Serat yang seragam menjaga hasil sapu tetap rapi dan tidak cepat rontok."
+          "t": "Diameter consistency",
+          "d": "Uniform fibers keep brooms neat and less prone to shedding."
         },
         {
-          "t": "Bahan nilon yang stabil",
-          "d": "Pastikan kualitas bahan konsisten dari batch ke batch."
+          "t": "Stable nylon material",
+          "d": "Make sure material quality is consistent from batch to batch."
         },
         {
-          "t": "Kekakuan sesuai fungsi",
-          "d": "Sapu lantai, sikat WC, dan kuas cat membutuhkan karakter bulu yang berbeda."
+          "t": "Stiffness for the job",
+          "d": "Floor, toilet, and paint brushes need different bristle character."
         },
         {
-          "t": "Kapasitas produksi",
-          "d": "Pasokan harus tetap stabil saat pesanan naik, bukan hanya saat sampel."
+          "t": "Production capacity",
+          "d": "Supply should stay stable when orders grow, not only for samples."
         },
         {
-          "t": "Opsi custom dan layanan",
-          "d": "Cek warna, ukuran, OEM, private label, dan respons tim saat revisi."
+          "t": "Custom options and service",
+          "d": "Check colors, sizes, OEM, private label, and revision response."
         }
       ],
       "bg": "brush-bundles"
     },
     {
       "type": "photo",
-      "kicker": "Uji Sebelum Order",
-      "title": "Mulai dari *Sampel* Anda Sendiri",
-      "lead": "Minta sampel untuk diuji di mesin dan lini produksi Anda. Hasil nyata lebih meyakinkan daripada janji di brosur.",
+      "kicker": "Test Before You Order",
+      "title": "Start With Your Own *Sample*",
+      "lead": "Request a sample to test on your machines and line. Real results beat brochure promises.",
       "photo": "custom-samples"
     },
     {
       "type": "photo",
-      "kicker": "Lihat Langsung",
-      "title": "Kunjungi *Pabrik* Kami",
-      "lead": "Lihat proses produksi, kontrol kualitas, dan kapasitas kami secara langsung di Tangerang.",
+      "kicker": "See It Yourself",
+      "title": "Visit Our *Factory*",
+      "lead": "See our production process, quality control, and capacity in person in Tangerang.",
       "photo": "factory-hall"
     },
     {
       "type": "cta",
-      "title": "Diskusikan Kebutuhan Bulu Anda",
-      "lead": "Minta sampel via WhatsApp +62 831-6591-3330 atau kirim DM ke kami sekarang."
+      "title": "Discuss Your Bristle Needs",
+      "lead": "Request a sample via WhatsApp +62 831-6591-3330 or send us a DM now."
     }
   ]
 }

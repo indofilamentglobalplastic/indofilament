@@ -1,93 +1,94 @@
 {
   "id": "20261027-1459",
-  "topic": "PERKENALAN 1 dari 3 - WHO WE ARE (siapa kami). Kicker cover: Who We Are. Isi: sapaan hangat untuk postingan pertama akun; kami Indofilament (PT Indofilament Global Plastic), produsen bulu sapu dan bulu sikat (filamen nilon) dari Tangerang untuk pabrik dan merek sapu/sikat di Indonesia maupun pembeli ekspor; untuk siapa kami bekerja; apa yang bisa diharapkan dari akun ini (produk, warna, behind the scenes pabrik, tips memilih bulu). Caption: bagian pertama dari seri perkenalan, ajak follow.",
+  "topic": "Intro series 1 of 3 - Who We Are: our first post, who we work for, and what to expect",
   "created": "2026-10-27T07:59:18.379Z",
-  "caption": "Halo! 👋 Ini postingan pertama kami, dan kami senang akhirnya bisa menyapa Anda.\n\nKami Indofilament (PT Indofilament Global Plastic), produsen bulu sapu dan bulu sikat (filamen nilon) dari Tangerang, Banten. Kami bekerja untuk pabrik dan merek sapu/sikat, distributor, serta pembeli ekspor. Pabrik kami beroperasi penuh sejak Februari 2026 dengan mesin filamen modern dan kapasitas hingga 5 ton per hari, memakai bahan baku plastik daur ulang yang ramah lingkungan.\n\nDi akun ini Anda bisa menantikan info produk dan pilihan warna, behind the scenes pabrik, serta tips memilih bulu yang tepat untuk produk Anda.\n\nIni bagian pertama dari seri perkenalan kami. Follow supaya tidak ketinggalan bagian berikutnya! 🙌\n\nMinta sampel via WhatsApp +62 831-6591-3330 atau kirim DM. Pabrik kami juga terbuka untuk dikunjungi.\n\nFor export buyers: we are a nylon broom and brush filament manufacturer based in Tangerang, Indonesia. Custom/OEM and private label available. Request a sample via WhatsApp +62 831-6591-3330.\n\n#bulusapu #bulusikat #filamen #pabriksapu #madeinindonesia #broomfilament #brushfilament #nylonfilament #filamennilon #tangerang #privatelabel #OEM",
+  "lang": "en",
+  "caption": "Hello! 👋 This is our first post, and we're glad to finally say hi.\n\nWe are Indofilament (PT Indofilament Global Plastic), a manufacturer of broom and brush bristles (nylon filament) from Tangerang, Banten. We work for broom and brush factories and brands, distributors, and export buyers. Our factory has been fully operating since February 2026 with modern filament machines and a capacity of up to 5 tons per day, using eco-friendly recycled plastic raw materials.\n\nOn this account you can look forward to product and color info, behind the scenes at the factory, and tips for choosing the right bristles for your product.\n\nThis is part one of our introduction series. Follow us so you don't miss the next parts! 🙌\n\nRequest a sample via WhatsApp +62 831-6591-3330 or send a DM. Our factory is also open for visits.\n\n#broomfilament #brushfilament #nylonfilament #madeinindonesia #Tangerang #privatelabel #OEM #broommanufacturer #brushmanufacturer #indofilament",
   "slides": [
     {
       "type": "cover",
       "kicker": "Who We Are",
-      "title": "Halo, kami *Indofilament*, produsen bulu sapu & sikat",
-      "lead": "PT Indofilament Global Plastic, filamen nilon dari Tangerang.",
+      "title": "Hello, we are *Indofilament*, broom & brush bristle makers",
+      "lead": "PT Indofilament Global Plastic, nylon filament from Tangerang.",
       "bg": "factory-hall"
     },
     {
       "type": "points",
-      "kicker": "Untuk Siapa",
-      "title": "Untuk *siapa* kami bekerja",
+      "kicker": "Who We Serve",
+      "title": "*Who* we work for",
       "items": [
         {
-          "t": "Pabrik sapu & sikat",
-          "d": "Pasokan bulu sapu dan bulu sikat nilon untuk lini produksi Anda."
+          "t": "Broom & brush factories",
+          "d": "Nylon broom and brush bristle supply for your production line."
         },
         {
-          "t": "Pemilik merek",
-          "d": "Filamen custom/OEM dan private label sesuai kebutuhan merek."
+          "t": "Brand owners",
+          "d": "Custom/OEM and private label filament to your brand's needs."
         },
         {
-          "t": "Distributor",
-          "d": "Pilihan warna dan jenis bulu untuk berbagai kebutuhan pasar."
+          "t": "Distributors",
+          "d": "Color and bristle options for a range of market needs."
         },
         {
-          "t": "Importir & pembeli ekspor",
-          "d": "Melayani pasar domestik maupun ekspor."
+          "t": "Importers & export buyers",
+          "d": "Serving domestic and export markets."
         }
       ],
       "bg": "brush-bundles"
     },
     {
       "type": "stats",
-      "kicker": "Sekilas Kami",
-      "title": "Kami dalam *angka*",
+      "kicker": "At a Glance",
+      "title": "We in *numbers*",
       "stats": [
         {
           "big": "Feb 2026",
-          "small": "Beroperasi penuh"
+          "small": "Fully operating"
         },
         {
-          "big": "5 ton",
-          "small": "Kapasitas hingga per hari"
+          "big": "5 tons",
+          "small": "Capacity up to per day"
         },
         {
-          "big": "2 pasar",
-          "small": "Domestik dan ekspor"
+          "big": "2 markets",
+          "small": "Domestic and export"
         },
         {
-          "big": "Daur ulang",
-          "small": "Bahan baku ramah lingkungan"
+          "big": "Recycled",
+          "small": "Eco-friendly raw materials"
         }
       ],
-      "note": "Mesin filamen modern di Tangerang, Banten.",
+      "note": "Modern filament machines in Tangerang, Banten.",
       "bg": "home-hero-bg"
     },
     {
       "type": "points",
-      "kicker": "Di Akun Ini",
-      "title": "Yang bisa Anda *nantikan*",
+      "kicker": "On This Account",
+      "title": "What to *expect*",
       "items": [
         {
-          "t": "Produk & warna",
-          "d": "Bulu sapu, bulu sikat, dan Gold Series dalam beragam pilihan warna."
+          "t": "Products & colors",
+          "d": "Broom bristles, brush bristles, and Gold Series in many colors."
         },
         {
           "t": "Behind the scenes",
-          "d": "Intip proses produksi langsung dari pabrik kami."
+          "d": "A peek at production straight from our factory."
         },
         {
-          "t": "Tips memilih bulu",
-          "d": "Panduan memilih filamen yang tepat untuk produk Anda."
+          "t": "Tips for choosing bristles",
+          "d": "Guides to picking the right filament for your product."
         },
         {
-          "t": "Info sampel & OEM",
-          "d": "Cara meminta sampel dan memesan filamen custom."
+          "t": "Sample & OEM info",
+          "d": "How to request samples and order custom filament."
         }
       ],
       "bg": "brush-hero"
     },
     {
       "type": "cta",
-      "title": "*Follow* untuk seri berikutnya",
-      "lead": "Minta sampel via WhatsApp +62 831-6591-3330 atau kirim DM."
+      "title": "*Follow* for the next series",
+      "lead": "Request a sample via WhatsApp +62 831-6591-3330 or send a DM."
     }
   ]
 }

@@ -1,76 +1,77 @@
 {
   "id": "20261106-1000",
-  "topic": "Bahan baku plastik daur ulang: bulu sapu yang lebih ramah lingkungan",
+  "topic": "Recycled plastic raw materials: broom bristles that are kinder to the environment",
   "created": "2026-11-06T03:00:39.069Z",
-  "caption": "Sapu yang bersih juga bisa lebih peduli lingkungan. 🌿 Di PT Indofilament Global Plastic, bulu sapu dan bulu sikat kami dibuat dari filamen nilon berbahan baku plastik daur ulang. Hasilnya tetap kuat dan konsisten, dengan pilihan warna dari kuning, hijau, biru, pink, hingga Gold Series, serta diameter, panjang, dan kekakuan yang bisa disesuaikan kebutuhan Anda.\n\nCocok untuk merek sapu dan sikat, distributor, maupun importir yang ingin menghadirkan produk lebih ramah lingkungan. Kami juga melayani filamen custom, OEM, dan private label.\n\nMinta sampel via WhatsApp +62 831-6591-3330 atau DM kami sekarang.\n\nWe produce nylon filaments made from recycled plastic raw materials for brooms and brushes, with custom colors and specifications available for export buyers.\n\n#bulusapu #bulusikat #filamen #pabriksapu #madeinindonesia #broomfilament #brushfilament #ramahlingkungan #daurulang #pabrikindonesia",
+  "lang": "en",
+  "caption": "A clean broom can care for the environment too. 🌿 At PT Indofilament Global Plastic, our broom and brush bristles are made from nylon filament using recycled plastic raw materials. The result is still strong and consistent, with color options from yellow, green, blue, and pink to our Gold Series, plus diameter, length, and stiffness you can adjust to your needs.\n\nIdeal for broom and brush brands, distributors, and importers who want to offer more eco-friendly products. We also offer custom filament, OEM, and private label.\n\nRequest a sample via WhatsApp +62 831-6591-3330 or DM us now.\n\n#broomfilament #brushfilament #nylonfilament #recycledmaterials #ecofriendly #madeinindonesia #privatelabel #OEM #broommanufacturer #brushmanufacturer",
   "slides": [
     {
       "type": "cover",
-      "kicker": "Ramah Lingkungan",
-      "title": "Bulu Sapu dari *Bahan Baku Plastik Daur Ulang*",
-      "lead": "Filamen nilon dari bahan baku plastik daur ulang, pilihan yang lebih ramah lingkungan.",
+      "kicker": "Eco-Friendly",
+      "title": "Broom Bristles From *Recycled Plastic* Raw Materials",
+      "lead": "Nylon filament from recycled plastic raw materials, a more eco-friendly choice.",
       "bg": "home-hero-bg"
     },
     {
       "type": "points",
-      "kicker": "Mengapa Daur Ulang",
-      "title": "Lebih Ramah *Lingkungan*",
+      "kicker": "Why Recycled",
+      "title": "Kinder to the *Environment*",
       "items": [
         {
-          "t": "Bahan baku daur ulang",
-          "d": "Memanfaatkan plastik yang sudah digunakan kembali menjadi filamen nilon baru."
+          "t": "Recycled raw materials",
+          "d": "Puts plastic back to work as new nylon filament."
         },
         {
-          "t": "Kualitas tetap terjaga",
-          "d": "Hasil filamen dibuat konsisten untuk berbagai jenis sapu dan sikat."
+          "t": "Quality stays intact",
+          "d": "Filament is made consistent for many kinds of brooms and brushes."
         },
         {
-          "t": "Mesin filamen modern",
-          "d": "Produksi beroperasi penuh sejak Februari 2026 di pabrik kami di Tangerang."
+          "t": "Modern filament machines",
+          "d": "Fully operating since February 2026 at our factory in Tangerang."
         },
         {
-          "t": "Warna dan spesifikasi",
-          "d": "Warna, diameter, panjang, dan kekakuan bisa disesuaikan kebutuhan Anda."
+          "t": "Colors and specs",
+          "d": "Color, diameter, length, and stiffness adjustable to your needs."
         }
       ],
       "bg": "brush-bundles"
     },
     {
       "type": "photo",
-      "kicker": "Dari Pabrik",
-      "title": "Filamen untuk *Sapu dan Sikat*",
-      "lead": "Dari bulu sapu hingga sikat industri, bahan baku daur ulang kami siap dipakai untuk beragam produk.",
+      "kicker": "From the Factory",
+      "title": "Filament for *Brooms and Brushes*",
+      "lead": "From broom bristles to industrial brushes, our recycled raw materials suit many products.",
       "photo": "broom-bristles"
     },
     {
       "type": "stats",
-      "kicker": "Sekilas",
-      "title": "Komitmen *Berkelanjutan*",
+      "kicker": "At a Glance",
+      "title": "*Sustainable* Commitment",
       "stats": [
         {
-          "big": "Daur ulang",
-          "small": "Bahan baku plastik yang dimanfaatkan kembali"
+          "big": "Recycled",
+          "small": "Reused plastic raw materials"
         },
         {
-          "big": "Nilon",
-          "small": "Filamen utama untuk sapu dan sikat"
+          "big": "Nylon",
+          "small": "Main filament for brooms/brushes"
         },
         {
           "big": "Custom",
-          "small": "Warna dan spesifikasi sesuai pesanan"
+          "small": "Colors and specs made to order"
         },
         {
-          "big": "Ekspor",
-          "small": "Melayani pasar domestik dan luar negeri"
+          "big": "Export",
+          "small": "Domestic and global markets"
         }
       ],
-      "note": "Diproduksi di Tangerang, Banten, untuk mitra di Indonesia dan dunia.",
+      "note": "Made in Tangerang, Banten, for partners in Indonesia and worldwide.",
       "bg": "factory-hall"
     },
     {
       "type": "cta",
-      "title": "Ingin Sampel Bahan Daur Ulang?",
-      "lead": "Minta sampel via WhatsApp +62 831-6591-3330 atau kunjungi indofilamentglobalplastic.com."
+      "title": "Want a Recycled Material Sample?",
+      "lead": "Request a sample via WhatsApp +62 831-6591-3330 or visit indofilamentglobalplastic.com."
     }
   ]
 }

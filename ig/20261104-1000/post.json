@@ -1,76 +1,77 @@
 {
   "id": "20261104-1000",
-  "topic": "OEM & private label: filamen custom untuk merek sapu/sikat Anda",
+  "topic": "OEM & private label: custom filament for your broom and brush brand",
   "created": "2026-11-04T03:00:38.313Z",
-  "caption": "Punya merek sapu atau sikat sendiri tapi ingin bulu yang benar-benar sesuai karakter produk Anda? Di Indofilament, filamen bisa dibuat custom (OEM) dan private label, mulai dari warna, diameter, panjang, hingga kekakuan. Pilihan warnanya lengkap, termasuk seri Gold dengan finishing pearl. Bahan utamanya nilon dari bahan baku plastik daur ulang, jadi tetap ramah lingkungan.\n\nSebelum produksi massal, Anda bisa meminta sampel untuk menguji hasilnya. Pabrik kami di Tangerang juga terbuka untuk kunjungan dari pemilik merek, distributor, dan importir.\n\nMinta sampel via WhatsApp +62 831-6591-3330 atau DM kami sekarang.\n\nWe offer custom nylon filament (OEM & private label) for broom and brush brands. Samples are available on request.\n\n#bulusapu #bulusikat #filamen #pabriksapu #OEM #privatelabel #madeinindonesia #broomfilament #brushfilament #pabrikTangerang",
+  "lang": "en",
+  "caption": "Do you have your own broom or brush brand and want bristles that truly match your product's character? At Indofilament, filament can be made custom (OEM) and private label, from color and diameter to length and stiffness. The color range is complete, including our Gold series with a pearl finish. The main material is nylon from recycled plastic raw materials, so it stays eco-friendly.\n\nBefore mass production, you can request a sample to test the results. Our factory in Tangerang is also open for visits from brand owners, distributors, and importers.\n\nRequest a sample via WhatsApp +62 831-6591-3330 or DM us now.\n\n#broomfilament #brushfilament #nylonfilament #OEM #privatelabel #madeinindonesia #broommanufacturer #brushmanufacturer #Tangerang #recycledmaterials",
   "slides": [
     {
       "type": "cover",
       "kicker": "OEM & Private Label",
-      "title": "Filamen *custom* untuk merek sapu & sikat Anda",
-      "lead": "Bulu sesuai spesifikasi dan identitas merek Anda, diproduksi di pabrik kami di Tangerang.",
+      "title": "*Custom* filament for your broom & brush brand",
+      "lead": "Bristles to your specs and brand identity, made at our factory in Tangerang.",
       "bg": "custom-oem"
     },
     {
       "type": "points",
-      "kicker": "Layanan kami",
-      "title": "Bulu sesuai kebutuhan *merek* Anda",
+      "kicker": "Our Service",
+      "title": "Bristles Matched to Your *Brand*",
       "items": [
         {
-          "t": "Diameter dan panjang",
-          "d": "Diameter, panjang, dan kekakuan bulu bisa disesuaikan dengan produk Anda."
+          "t": "Diameter and Length",
+          "d": "Bristle diameter, length, and stiffness can be adjusted to your product."
         },
         {
-          "t": "Pilihan warna",
-          "d": "Kuning, hijau, biru, pink, merah, ungu, oranye, hitam, putih, atau warna custom."
+          "t": "Color Options",
+          "d": "Yellow, green, blue, pink, red, purple, orange, black, white, or custom."
         },
         {
           "t": "Gold Series",
-          "d": "Bright Gold dan Copper Gold dengan finishing pearl untuk kesan lebih premium."
+          "d": "Bright Gold and Copper Gold with a pearl finish for a more premium look."
         },
         {
-          "t": "Private label",
-          "d": "Filamen diproduksi dengan identitas merek Anda untuk dipasarkan ke pelanggan Anda."
+          "t": "Private Label",
+          "d": "Filament made with your brand identity to market to your customers."
         }
       ],
       "bg": "brush-bristles"
     },
     {
       "type": "stats",
-      "kicker": "Keunggulan",
-      "title": "Empat alasan memilih *OEM* kami",
+      "kicker": "Advantages",
+      "title": "Four Reasons to Choose Our *OEM*",
       "stats": [
         {
           "big": "OEM",
-          "small": "Filamen dibuat sesuai pesanan merek Anda"
+          "small": "Filament made to your order"
         },
         {
           "big": "Private",
-          "small": "Identitas merek Anda pada produk jadi"
+          "small": "Your brand on the product"
         },
         {
           "big": "Gold",
-          "small": "Series dengan finishing pearl yang khas"
+          "small": "Series with a pearl finish"
         },
         {
-          "big": "Daur ulang",
-          "small": "Bahan baku plastik daur ulang, ramah lingkungan"
+          "big": "Recycled",
+          "small": "Eco-friendly recycled materials"
         }
       ],
-      "note": "Bahan utama nilon, diproduksi di Dadap, Tangerang, Banten.",
+      "note": "Main material nylon, produced in Dadap, Tangerang, Banten.",
       "bg": "factory-hall"
     },
     {
       "type": "photo",
-      "kicker": "Sebelum produksi",
-      "title": "Lihat sampel sebelum *produksi* massal",
-      "lead": "Uji warna, diameter, dan kekakuan lewat sampel. Pabrik di Tangerang juga terbuka untuk kunjungan.",
+      "kicker": "Before Production",
+      "title": "See Samples Before *Mass* Production",
+      "lead": "Test color, diameter, and stiffness with samples. Our Tangerang factory is open for visits.",
       "photo": "custom-samples"
     },
     {
       "type": "cta",
-      "title": "Wujudkan filamen *custom* Anda",
-      "lead": "Hubungi kami via WhatsApp +62 831-6591-3330 atau kunjungi indofilamentglobalplastic.com."
+      "title": "Make Your *Custom* Filament Real",
+      "lead": "Contact us via WhatsApp +62 831-6591-3330 or visit indofilamentglobalplastic.com."
     }
   ]
 }
