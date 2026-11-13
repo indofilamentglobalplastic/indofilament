@@ -1,0 +1,77 @@
+{
+  "id": "20261113-1000",
+  "topic": "Satu pabrik, banyak jenis sikat: lantai, WC, piring, cuci, kuas cat, industri",
+  "created": "2026-11-13T03:00:36.222Z",
+  "lang": "en",
+  "caption": "One factory, every brush type. 🪥✨\n\nFrom floor and toilet brushes to dish, washing, paint, nail and industrial brushes, we produce nylon filaments for the full range of brush makers. Our nylon filaments are made from recycled plastic raw materials, so you get a more sustainable bristle without compromising performance.\n\nWhat we offer:\n• Filaments for floor, WC, dish, washing and machine-wash brushes\n• Fine filaments for paint, nail, hair and craft brushes\n• Heavy-duty bristles for industrial brushes\n• Custom and OEM filaments, plus private label programs\n• Gold Series finishes: Bright Gold and Copper Gold\n• Custom colors, diameter, length and stiffness\n\nSince February 2026 we have been in full operation with modern filament machines and a capacity of up to 5 tons per day, serving domestic and export markets.\n\nReady to find the right filament for your brush line? Request a sample via WhatsApp +62 831-6591-3330 or DM us. You are also welcome to visit our factory at Jl. Perancis No.79, Dadap, Tangerang.\n\n#brushfilament #broomfilament #nylonfilament #brushmanufacturer #broommanufacturer #madeinindonesia #privatelabel #OEM #goldseries #sustainablemanufacturing",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Brush Filament Maker",
+      "title": "One Factory, *Every Brush Type*",
+      "lead": "Floor, toilet, dish, paint and industrial brush filaments from one Tangerang factory.",
+      "bg": "brush-hero"
+    },
+    {
+      "type": "points",
+      "kicker": "Product range",
+      "title": "Bristles for *Every Application*",
+      "items": [
+        {
+          "t": "Floor and Toilet",
+          "d": "Durable nylon filaments for floor, WC and scrubbing brushes."
+        },
+        {
+          "t": "Dish and Kitchen",
+          "d": "Filaments for dish, washing and machine-wash brushes."
+        },
+        {
+          "t": "Paint and Craft",
+          "d": "Fine filaments for paint, nail, hair and craft brushes."
+        },
+        {
+          "t": "Industrial",
+          "d": "Heavy-duty bristles for industrial brushes built for demanding use."
+        }
+      ],
+      "bg": "brush-bristles"
+    },
+    {
+      "type": "stats",
+      "kicker": "Capacity",
+      "title": "Built for *Scale and Speed*",
+      "stats": [
+        {
+          "big": "5 ton",
+          "small": "Production capacity per day"
+        },
+        {
+          "big": "Feb 2026",
+          "small": "Full operation since launch"
+        },
+        {
+          "big": "Nagoya",
+          "small": "Nearly all broom and brush bristles supplied"
+        },
+        {
+          "big": "Custom",
+          "small": "Color, diameter, length and stiffness adjustable"
+        }
+      ],
+      "note": "Serving both domestic and export markets.",
+      "bg": "factory-hall"
+    },
+    {
+      "type": "photo",
+      "kicker": "Custom and OEM",
+      "title": "Custom Colors and *Private Label*",
+      "lead": "Choose yellow, green, blue, pink, black, white or custom colors, plus Gold Series.",
+      "photo": "custom-oem"
+    },
+    {
+      "type": "cta",
+      "title": "Get Samples for Your Brush Line",
+      "lead": "Request a sample via WhatsApp +62 831-6591-3330 or visit us in Dadap, Tangerang."
+    }
+  ]
+}
