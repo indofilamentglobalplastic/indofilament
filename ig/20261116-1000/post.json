@@ -1,0 +1,77 @@
+{
+  "id": "20261116-1000",
+  "topic": "Minta sampel dulu: cara menguji bulu sikat di lini produksi Anda",
+  "created": "2026-11-16T03:00:38.717Z",
+  "lang": "en",
+  "caption": "Before you buy in bulk, test it on your own line. 🧪\n\nAt PT Indofilament Global Plastic, we believe a good brush starts with good filament. That is why we encourage every buyer to request a sample first and check how our nylon filament runs on their machines and performs in their final product.\n\nOur sample testing approach is simple:\n• Share your target color, diameter, length and stiffness\n• Run the filament on your tufting or brushmaking equipment\n• Check bristle straightness, tuft density and end finish\n• Evaluate performance in real use with your end customers\n\nWe produce nylon filament from recycled plastic raw material on modern machines, for broom bristles, brush bristles, custom OEM and private label orders. Choose from yellow, green, blue, pink, black, white and Gold Series finishes, or request a custom color.\n\nOur factory in Tangerang is open to visitors, and our team is ready to help you pick the right specification for your brand.\n\nRequest a sample via WhatsApp +62 831-6591-3330 or DM us to get started. ✨\n\n#brushfilament #broomfilament #nylonfilament #brushmanufacturer #madeinindonesia #privatelabel #OEM #goldseries #requestasample",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Request a Sample",
+      "title": "Test Our *Brush Filament* on Your Line",
+      "lead": "Before you commit, see how our nylon filament performs in your own production line.",
+      "bg": "brush-hero"
+    },
+    {
+      "type": "points",
+      "kicker": "How to test",
+      "title": "Test *before* you commit",
+      "items": [
+        {
+          "t": "Set your specs",
+          "d": "Share color, diameter, length and stiffness needs for your brush type."
+        },
+        {
+          "t": "Run on your machines",
+          "d": "Trial the filament in your tufting or brushmaking machines as usual."
+        },
+        {
+          "t": "Check tuft quality",
+          "d": "Inspect bristle straightness, tuft density and end finish after running."
+        },
+        {
+          "t": "Test in real use",
+          "d": "Evaluate sweeping, scrubbing or cleaning performance with your end users."
+        }
+      ],
+      "bg": "brush-bristles"
+    },
+    {
+      "type": "stats",
+      "kicker": "Our range",
+      "title": "Built for *your* brushes",
+      "stats": [
+        {
+          "big": "Custom",
+          "small": "Diameter, length and stiffness"
+        },
+        {
+          "big": "Gold",
+          "small": "Bright Gold and Copper Gold"
+        },
+        {
+          "big": "Nylon",
+          "small": "Recycled plastic raw material"
+        },
+        {
+          "big": "Samples",
+          "small": "Available on request"
+        }
+      ],
+      "note": "Sample requests are welcome for all standard and custom orders.",
+      "bg": "custom-samples"
+    },
+    {
+      "type": "photo",
+      "kicker": "Visit us",
+      "title": "See the *filament* up close",
+      "lead": "Visit our factory in Tangerang or request samples to test on your own line before placing an order.",
+      "photo": "factory-hall"
+    },
+    {
+      "type": "cta",
+      "title": "Request your sample today",
+      "lead": "Message us on WhatsApp +62 831-6591-3330 or visit indofilamentglobalplastic.com to start."
+    }
+  ]
+}
