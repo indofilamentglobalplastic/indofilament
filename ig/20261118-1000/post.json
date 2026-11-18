@@ -1,0 +1,76 @@
+{
+  "id": "20261118-1000",
+  "topic": "Diameter, panjang, dan kekakuan filamen: menyesuaikan dengan jenis sikat",
+  "created": "2026-11-18T03:00:38.997Z",
+  "lang": "en",
+  "caption": "Not every brush needs the same filament. 🪥 A floor brush, a dish brush and a paint brush each demand a different balance of diameter, length and stiffness. At Indofilament Global Plastic, we adjust all three to the brush you are building.\n\nWhat we tailor:\n• Diameter to match your bristle density and brush head\n• Length cut to your working requirement\n• Stiffness from soft for nails and dishes to firm for floors and industrial use\n• Colors including yellow, green, blue, pink, Gold Series (Bright Gold and Copper Gold), and custom shades\n\nOur filament is made from recycled plastic raw materials, and we supply OEM and private label programs for brand owners, distributors and importers in domestic and export markets.\n\nGot a specific brush in mind? Send us your application and we will work out the right specification with you. Request a sample via WhatsApp +62 831-6591-3330 or DM us. You are also welcome to visit our factory in Tangerang.\n\n#broomfilament #brushfilament #nylonfilament #broommanufacturer #brushmanufacturer #madeinindonesia #privatelabel #OEM #goldseries #recycledmaterials",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Filament Specification",
+      "title": "Tailored Filament for *Every* Brush Type",
+      "lead": "Diameter, length and stiffness adjusted to the brush you build, from floor to paint.",
+      "bg": "brush-hero"
+    },
+    {
+      "type": "points",
+      "kicker": "Customization",
+      "title": "Three Specs, Matched to *Your* Brush",
+      "items": [
+        {
+          "t": "Diameter",
+          "d": "Thickness suited to your bristle density and brush head."
+        },
+        {
+          "t": "Length",
+          "d": "Cut to the working length your brush head needs."
+        },
+        {
+          "t": "Stiffness",
+          "d": "Soft for dishes and nails, firm for floors and industrial use."
+        },
+        {
+          "t": "Custom Colors",
+          "d": "Yellow, green, blue, pink, Gold Series, or custom shades."
+        }
+      ],
+      "bg": ""
+    },
+    {
+      "type": "photo",
+      "kicker": "Built for Application",
+      "title": "Soft to *Industrial*, Matched Precisely",
+      "lead": "From toilet and dish brushes to paint and industrial brushes, each filament is set for its job.",
+      "photo": "brush-bristles"
+    },
+    {
+      "type": "points",
+      "kicker": "Why It Matters",
+      "title": "Right Spec, *Better* Brushes",
+      "items": [
+        {
+          "t": "Better Performance",
+          "d": "Correct stiffness helps bristles clean, sweep or paint as intended."
+        },
+        {
+          "t": "Fewer Surprises",
+          "d": "Specs agreed upfront help avoid rework on your production line."
+        },
+        {
+          "t": "Recycled Raw Materials",
+          "d": "Made from recycled plastic raw materials with nylon filament quality."
+        },
+        {
+          "t": "Private Label Ready",
+          "d": "OEM and private label filament for your own brand."
+        }
+      ],
+      "bg": "custom-oem"
+    },
+    {
+      "type": "cta",
+      "title": "Tell Us Your Brush Specs",
+      "lead": "Share your brush type and we will match diameter, length and stiffness. WhatsApp +62 831-6591-3330"
+    }
+  ]
+}
