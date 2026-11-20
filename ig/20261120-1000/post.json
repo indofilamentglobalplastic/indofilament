@@ -1,0 +1,77 @@
+{
+  "id": "20261120-1000",
+  "topic": "Di balik layar pabrik: dari mesin filamen ke gudang",
+  "created": "2026-11-20T03:00:41.752Z",
+  "lang": "en",
+  "caption": "Ever wondered what happens before a broom or brush reaches the shelf? 🏭\n\nHere is a look behind the scenes at PT Indofilament Global Plastic in Tangerang, Banten. Our process starts with recycled plastic raw materials, which are turned into nylon filament on modern filament machines. Each run can be adjusted to your needs, from diameter and length to stiffness and color. We offer standard colors such as yellow, green, blue, and pink, plus Gold Series finishes in Bright Gold and Copper Gold. Custom colors are available on request.\n\nOnce produced, filament moves to our warehouse, where it is organized and prepared for domestic and export orders. With production capacity of up to 5 tons per day, we support broom and brush manufacturers, distributors, and importers who need a reliable supply.\n\nWhether you need standard filament or a custom OEM or private label solution, our team is ready to help you find the right match.\n\nRequest a sample via WhatsApp +62 831-6591-3330 or DM us. Factory visits are welcome too. 🧹✨\n\n#broomfilament #brushfilament #nylonfilament #broommanufacturer #madeinindonesia #privatelabel #OEM #goldseries",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Behind the factory",
+      "title": "Behind the scenes: from *filament machines* to *warehouse*",
+      "lead": "Inside our Tangerang plant: from modern filament lines to finished stock ready to ship.",
+      "bg": "factory-hall"
+    },
+    {
+      "type": "points",
+      "kicker": "Production flow",
+      "title": "How our *filament* is made",
+      "items": [
+        {
+          "t": "Recycled raw material",
+          "d": "Recycled plastic raw materials are the starting point for every production run."
+        },
+        {
+          "t": "Modern filament machines",
+          "d": "Modern machines extrude nylon filament to your diameter and stiffness."
+        },
+        {
+          "t": "Color and finishing",
+          "d": "Standard colors, Gold Series pearl finishes, and custom colors on request."
+        },
+        {
+          "t": "Warehouse and shipping",
+          "d": "Finished filament is packed and stored for domestic and export orders."
+        }
+      ],
+      "bg": ""
+    },
+    {
+      "type": "photo",
+      "kicker": "Inside the plant",
+      "title": "Modern lines, *steady* output",
+      "lead": "Our filament machines run at up to 5 tons per day, supplying domestic and export customers.",
+      "photo": "factory-hall"
+    },
+    {
+      "type": "stats",
+      "kicker": "By the numbers",
+      "title": "Built for *volume* and *variety*",
+      "stats": [
+        {
+          "big": "5 Tons",
+          "small": "Production capacity per day"
+        },
+        {
+          "big": "Feb 2026",
+          "small": "Full operations since start"
+        },
+        {
+          "big": "Gold",
+          "small": "Bright & Copper Gold finishes"
+        },
+        {
+          "big": "Export",
+          "small": "Domestic and export markets"
+        }
+      ],
+      "note": "Custom diameter, length, and stiffness available for OEM and private label.",
+      "bg": "brush-bundles"
+    },
+    {
+      "type": "cta",
+      "title": "Let's Talk Filament",
+      "lead": "Request a sample via WhatsApp +62 831-6591-3330 or visit our factory in Tangerang."
+    }
+  ]
+}
